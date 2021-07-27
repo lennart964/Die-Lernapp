@@ -1,1 +1,3 @@
 Deadline fertige App: Juli 2022
+
+1. Prototyp mit den nötigsten Funktionen (MVP) - 30.09.
